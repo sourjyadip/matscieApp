@@ -59,6 +59,10 @@ python page1a.py
 ```sh
 ssh -L 8080:localhost:8080 admin@server1.example.com
 ```
+The jar file can be downloaded in the server using the following command.
+```sh
+wget https://github.com/allenai/science-parse/releases/download/v2.0.3/science-parse-server-assembly-2.0.3.jar
+```
 3. In case there are other problems while running the application, please feel free to create a new issue on this repository.
 
 ## To Do
