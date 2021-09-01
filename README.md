@@ -15,7 +15,7 @@ This is a PyQT implementation of the [MatScIE paper](https://arxiv.org/abs/2009.
 ```sh
 unzip matscie.zip -d destination_folder
 ```
-Remember to replace destination_folder to the actual destination folder.
+Remember to replace destination_folder with the actual location of the destination folder.
 
 ### Setting up the environment
 
