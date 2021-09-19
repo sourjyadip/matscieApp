@@ -10,10 +10,10 @@ This is a PyQT implementation of the [MatScIE paper](https://arxiv.org/abs/2009.
 
 ### Getting the files
 
-1. Download the files from [here](https://drive.google.com/file/d/1ntFN-hG3k3C0Klksn3TiFMksclYIyiMl/view?usp=sharing).
+1. Download the files from [here](https://drive.google.com/file/d/1Xh-V4Lujtk6Uj7QS51HsSte-79w0ZEc5/view?usp=sharing).
 2. Unzip the files using the following command or use the GUI by clicking on the zip file.
 ```sh
-unzip matscie.zip -d destination_folder
+unzip matscie_new.zip -d destination_folder
 ```
 Remember to replace destination_folder with the actual location of the destination folder.
 
